@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/minimum-time-visiting-all-points/
 class MinTimeVisitingAllPts:
     def solve(self,points):
         answer = 0
